@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hDO8+kWLlarBzww4CmCKdyqZqYVQxpWj+4wjh3mYIsk=",
+  "Source": "VehicleOrderAPI",
+  "BasePath": "_content/VehicleOrderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
